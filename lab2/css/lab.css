@@ -1,0 +1,25 @@
+h1 {
+  color: orange;
+  font-size: 250%;
+  font-family: cursive;
+}
+
+p{
+  font family: "comic sans";
+  text-index: 20px;
+  margin-left: 10px;
+  color: purple;
+}
+
+#content {
+  background-color: #81D4F8;
+  width: 400px;
+  min-height: 300px;
+  padding: 5px;
+  margin: 5px;
+  border: solid 5px #FFE95D;
+  border-style: dotted;
+  border-radius: 20px;
+  font-size: 25px;
+
+}
