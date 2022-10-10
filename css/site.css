@@ -11,3 +11,7 @@ p{
   border: solid 1px black;
   border-radius: 20px
 }
+
+#selfportrait {
+    width: 300px;
+}
