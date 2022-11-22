@@ -1,17 +1,23 @@
 
+h1{color: pink}
 
 p{
-  color: purple;
+  color: orange;
 }
 
-#callout {
-  background-color: tan;
-  padding: 20px;
-  margin: 10px;
-  border: solid 1px black;
-  border-radius: 20px
+h2{font-size: 30px
 }
+h3{font-size: 30px}
 
-#selfportrait {
-    width: 300px;
+#content {
+  background-color: black;
+  width: 1000px;
+  length: 1000px
+  min-height: 100px;
+  padding: 5px;
+  margin: 5px;
+  border: solid 3px #FFE95D;
+  border-style: solid;
+  border-radius: 10px;
+  font-size: 15px;
 }
